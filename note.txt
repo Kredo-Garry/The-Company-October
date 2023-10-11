@@ -1,0 +1,11 @@
+Actions folder ---> will hold the actions (code) perform by the program
+Assets folder --> will hold the images and the css files
+Classes folder --> will hold the class files
+Views folder --> will hold the html/php files
+
+******************************************
+Name of our project folder: The-Company-October
+
+Using Git Commands
+Step 1: Initialize the project folder --- meaning, set the folder to become Git Repo (Local) --- using the "git init" command.
+Step 2: Run the command "git add ." --- meaning, it will move the source code in to the temporary storage (staging area) inside our computer.
