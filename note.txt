@@ -9,3 +9,7 @@ Name of our project folder: The-Company-October
 Using Git Commands
 Step 1: Initialize the project folder --- meaning, set the folder to become Git Repo (Local) --- using the "git init" command.
 Step 2: Run the command "git add ." --- meaning, it will move the source code in to the temporary storage (staging area) inside our computer.
+Step 3: Run the command git commit -m "A Any message here" --- meaning, this command is going to create a snapshot of our staging area.
+Step 4: Create the main branch using the command "git branch -M main"
+Step 5: Connect our local Git repo into our remote Git repo (Github) using the command "git remote add origin <url>"
+Step 6: Upload/or Push our source code to the remote repo (Github repo)
